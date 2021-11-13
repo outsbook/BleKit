@@ -18,7 +18,7 @@ let package = Package(
         .target(
                 name: "RxBluetoothKit",
                 dependencies: [
-                    "RxSwift"
+                    
                 ],
                 path: ".",
                 exclude: [
